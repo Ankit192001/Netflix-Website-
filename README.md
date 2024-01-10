@@ -1,2 +1,2 @@
-# Netflix-Website-
+# Zomato-website-
 Hompage Clone
